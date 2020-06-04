@@ -1,6 +1,7 @@
 *.out
 *.a
 *.exe
-.vscode
+.vscode/
+.vscode/*
 
 
