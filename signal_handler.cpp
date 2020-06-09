@@ -24,7 +24,7 @@ int main()
    while(keepRunning)
    {
     count ++;
-    printf("Program processing stuff here.  %d\n", count);     
+    printf("Program processing stuff here.  %d\n", count);  
    }
    return EXIT_SUCCESS;
 }
